@@ -1,108 +1,170 @@
 
 <div align="center">
 
-# Olá, seja bem-vindo ao meu perfil! 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1020,45:312E81,100:06B6D4&text=DANIEL&fontColor=FFFFFF&fontSize=65&fontAlignY=40&desc=ADS%20%7C%20TECHNOLOGY%20%7C%20DEVELOPMENT&descAlignY=62&descSize=15&animation=fadeIn" width="100%" />
 
-### Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=67D5FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+na+Unicid;Desenvolvedor+em+formação;Aprender.+Praticar.+Construir.+Evoluir." />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Construindo+minha+jornada+na+tecnologia;Aprendendo+%7C+Praticando+%7C+Evoluindo;Transformando+conhecimento+em+projetos" alt="Texto animado" />
-</p>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<a href="#sobre-mim"><img src="https://img.shields.io/badge/SOBRE_MIM-172554?style=for-the-badge&logo=github&logoColor=67D5FF" /></a>
+<a href="#tecnologias"><img src="https://img.shields.io/badge/TECNOLOGIAS-312E81?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+<a href="#projetos"><img src="https://img.shields.io/badge/PROJETOS-164E63?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="#estatisticas"><img src="https://img.shields.io/badge/ESTATISTICAS-1E1B4B?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## `01` — Sobre mim
+<a id="sobre-mim"></a>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) na Unicid**, iniciando minha trajetória na área de tecnologia.
+<img src="https://img.shields.io/badge/01-QUEM%20SOU%20EU-312E81?style=for-the-badge" />
 
-Atualmente, estou desenvolvendo minha base em programação, lógica computacional, desenvolvimento web e modelagem de dados.
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas na Unicid**, construindo minha trajetória na área de tecnologia.
 
-Minha experiência profissional como auxiliar de produção na **Artshow** também contribui para minha organização, responsabilidade e capacidade de trabalhar em equipe.
+Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, desenvolvimento web e modelagem de dados.
 
-Utilizo este espaço para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante os estudos.
+Minha experiência como **auxiliar de produção na Artshow** contribui para minha organização, responsabilidade e capacidade de trabalhar em equipe.
 
-> **Meu objetivo:** evoluir constantemente e construir minha carreira na área de desenvolvimento de sistemas.
+Este perfil é meu espaço para registrar aprendizados, compartilhar projetos e acompanhar minha evolução na programação.
+
+<details>
+<summary>✨ Mais sobre minha jornada</summary>
+
+<br/>
+
+- 🎓 Formação: Análise e Desenvolvimento de Sistemas — em andamento.
+- 💻 Foco atual: fundamentos de programação e desenvolvimento web.
+- 🧠 Estudando: algoritmos, banco de dados e construção de páginas.
+- 🎯 Objetivo: conquistar oportunidades e desenvolver minha carreira em tecnologia.
+- 📚 Mentalidade: aprender continuamente e transformar teoria em prática.
+
+</details>
 
 ---
 
-## `02` — Tecnologias em aprendizado
+<a id="tecnologias"></a>
+
+<img src="https://img.shields.io/badge/02-TECNOLOGIAS-0E7490?style=for-the-badge" />
 
 <div align="center">
 
 ### Desenvolvimento web
 
-<img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="55" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="55" alt="CSS3"/></a>
 
-### Programação e dados
+### Programação e banco de dados
 
-<img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-<img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<a href="https://en.cppreference.com/w/c.html"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="55" alt="C"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL"/></a>
 
 ### Ferramentas
 
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="55" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55" alt="GitHub"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55" alt="VS Code"/></a>
+
+</div>
+
+<details>
+<summary>📌 O que estou praticando em cada tecnologia?</summary>
+
+<br/>
+
+| Área | Meu foco |
+|:---|:---|
+| HTML | Estrutura e semântica de páginas |
+| CSS | Cores, layouts e responsividade |
+| C | Variáveis, condições, repetições e algoritmos |
+| SQL | Consultas, tabelas e relacionamentos |
+| Git/GitHub | Versionamento e organização de projetos |
+
+</details>
+
+---
+
+<a id="projetos"></a>
+
+<img src="https://img.shields.io/badge/03-PROJETOS%20EM%20DESTAQUE-6D28D9?style=for-the-badge" />
+
+<div align="center">
+
+### 🔹 Desenvolvimento Web
+
+**Páginas e exercícios com HTML e CSS**
+
+Prática de estruturação, estilização e organização de páginas web.
+
+[![Ver repositórios](https://img.shields.io/badge/VER_MEUS_REPOSITORIOS-172554?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO?tab=repositories)
+
+---
+
+### 🔹 Lógica de Programação
+
+**Exercícios e algoritmos em C**
+
+Resolução de problemas e prática dos fundamentos da programação.
+
+[![Ver projetos](https://img.shields.io/badge/EXPLORAR_PROJETOS-312E81?style=for-the-badge&logo=git)](https://github.com/SEU-USUARIO?tab=repositories)
+
+---
+
+### 🔹 Modelagem de Dados
+
+**Estudos de entidades, relacionamentos e SQL**
+
+Prática de conceitos de banco de dados e organização das informações.
+
+[![Ver estudos](https://img.shields.io/badge/VER_ESTUDOS-164E63?style=for-the-badge&logo=mysql)](https://github.com/SEU-USUARIO?tab=repositories)
+
+</div>
+
+> Os links acima levam aos repositórios da conta. Quando você tiver projetos específicos publicados, poderá substituir esses links pelos endereços de cada projeto.
+
+---
+
+<a id="estatisticas"></a>
+
+<img src="https://img.shields.io/badge/04-MINHA%20ATIVIDADE-312E81?style=for-the-badge" />
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67D5FF&text_color=C4CBE0&icon_color=B8A1FF&rank_icon=github" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0B1020&title_color=67D5FF&text_color=C4CBE0" alt="Linguagens mais utilizadas" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=transparent&hide_border=true&ring=67D5FF&fire=B8A1FF&currStreakLabel=67D5FF&sideLabels=C4CBE0&dates=9CA3AF" alt="Sequência de contribuições" width="100%" />
 
 </div>
 
 ---
 
-## `03` — O que estou estudando
-
-- **Lógica de programação:** algoritmos, variáveis, condições e estruturas de repetição.
-- **Desenvolvimento web:** estruturação de páginas com HTML e estilização com CSS.
-- **Programação em C:** fundamentos da linguagem e resolução de exercícios.
-- **Banco de dados:** modelagem de dados, entidades, relacionamentos e SQL.
-- **Versionamento:** Git e GitHub para organizar e compartilhar meus projetos.
-
----
-
-## `04` — Projetos e prática
-
-Este espaço reúne projetos desenvolvidos durante meus estudos, exercícios práticos e experimentos pessoais.
-
-| Projeto | Descrição | Tecnologias |
-|:--|:--|:--|
-| Projetos web | Páginas e exercícios de desenvolvimento web | HTML, CSS |
-| Exercícios de programação | Prática de lógica e algoritmos | C |
-| Modelagem de dados | Exercícios com entidades e relacionamentos | SQL |
-| Projetos acadêmicos | Soluções desenvolvidas durante a graduação | Em evolução |
-
-> Os projetos serão adicionados e atualizados conforme minha evolução. 
-
----
-
-## `05` — Minha forma de evoluir
-
-```text
-Aprender → Praticar → Construir → Compartilhar → Evoluir
-```
-
-Acredito que a consistência e a prática são fundamentais para desenvolver boas habilidades na tecnologia.
-
-Cada exercício representa uma oportunidade de aprender algo novo, entender meus erros e melhorar minhas soluções.
-
----
-
-## `06` — Vamos nos conectar?
-
-Estou aberto a trocar conhecimentos, conhecer pessoas da área de tecnologia e aprender com diferentes experiências.
+<img src="https://img.shields.io/badge/05-CONEXAO%20E%20EVOLUCAO-0E7490?style=for-the-badge" />
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/MEU_LINKEDIN-181717?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_DO_LINKEDIN)
+Estou aberto a trocar conhecimentos, aprender com a comunidade e conhecer pessoas da área de tecnologia.
 
-<br />
+<a href="https://github.com/SEU-USUARIO">
+<img src="https://img.shields.io/badge/MEU_GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Em constante aprendizado. Construindo meu próximo passo na tecnologia.**
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
-<sub>README desenvolvido para documentar minha jornada em ADS.</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:06B6D4&height=120&section=footer" />
+
+**Construindo meu caminho na tecnologia, um projeto de cada vez.** 🚀
 
 </div>
