@@ -46,7 +46,7 @@ Uma página com um mini game de reflexos. Clique no alvo o máximo de vezes que 
 ## ✦ Vamos nos conectar?
 
 - **GitHub:** [danielgabrieleduardo2020-maker](https://github.com/danielgabrieleduardo2020-maker)
-- **LinkedIn:** (https://www.linkedin.com/in/daniel-santana-291978391/)
+- **LinkedIn:** https://www.linkedin.com/in/daniel-santana-291978391/
 
 <div align="center">
 
