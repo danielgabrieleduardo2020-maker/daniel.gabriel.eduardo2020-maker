@@ -7,7 +7,7 @@
 
 </div>
 
-## 👋 Olá! Eu sou o Daniel
+## Opa! Eu sou o Daniel
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Unicid**, com interesse em desenvolvimento web e Full Stack. Estou construindo minha base técnica por meio dos estudos e de projetos práticos, buscando aprender, experimentar e evoluir.
 
@@ -16,39 +16,37 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na Unicid**, com inter
 - 🧠 Gosto de criatividade, tecnologia e resolução de problemas
 - 🚀 Objetivo: ganhar experiência prática e crescer na área de tecnologia
 
-## 🛠️ Tecnologias que estou estudando
+## ✦ Tecnologias que estou estudando
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode,mysql&theme=dark" alt="Tecnologias">
+<img src="https://skillicons.dev/icons?i=html,css,c,git,github,vscode,mysql&theme=dark" alt="Tecnologias">
 </div>
 
-> Mantenha nesta lista apenas as tecnologias que você conhece ou está realmente estudando.
+## ✦ Experimente meu portfólio interativo
 
-## 🎮 Experimente meu portfólio interativo
+Uma página com um mini game de reflexos. Clique no alvo o máximo de vezes que conseguir em 20 segundos e tente superar o recorde!
 
-Criei uma página com um mini game de reflexos. Clique no alvo o máximo de vezes que conseguir em 20 segundos e tente superar o recorde!
+**[▷ Abrir meu portfólio interativo](https://danielgabrieleduardo2020-maker.github.io/portfolio-interativo/)**
 
-**[▶ Abrir meu portfólio interativo](https://danielgabrieleduardo2020-maker.github.io/portfolio-interativo/)**
-
-## 📂 Projetos
+## ✦ Projetos
 
 - 🌐 **Desenvolvimento Web:** páginas para praticar HTML, CSS, responsividade e interatividade.
 - 💻 **Programação em C:** exercícios de lógica e pequenos programas.
 - 🎯 **Portfólio interativo:** site pessoal com mini game em JavaScript.
 
-👉 **[Ver todos os repositórios](https://github.com/danielgabrieleduardo2020-maker?tab=repositories)**
+**[▷Ver todos os repositórios](https://github.com/danielgabrieleduardo2020-maker?tab=repositories)**
 
-## 📈 GitHub
+## ✦ GitHub
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielgabrieleduardo2020-maker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgabrieleduardo2020-maker&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
 </div>
 
-## 📫 Vamos nos conectar?
+## ✦ Vamos nos conectar?
 
 - **GitHub:** [danielgabrieleduardo2020-maker](https://github.com/danielgabrieleduardo2020-maker)
-- **LinkedIn:** substitua esta linha pelo link do seu perfil
+- **LinkedIn:** (https://www.linkedin.com/in/daniel-santana-291978391/)
 
 <div align="center">
 
